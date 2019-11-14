@@ -15,7 +15,7 @@ $('document').ready(function(){
 		$('.signup-container').css('transform', 'scale(1)');
 		$('.signup-container').css('height', '100%');
 		$('.login-container').css('transform', 'scale(0)');
-		
+
 	});
 
 	$('.login-link').on('click', function(){
